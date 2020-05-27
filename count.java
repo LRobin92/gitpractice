@@ -1,4 +1,5 @@
 void count(){
-print(Robinnnyoh);
-print(Balazskam <3 );
+print(Robinkaka);
+print(Bazsi);
+master
 }
