@@ -1,6 +1,5 @@
 void count(){
-print(Robin);
+print(Robin & Balazs forever);
 print(Balazs4214);
-print(Robin);
-print(Balazskah);
+
 }
