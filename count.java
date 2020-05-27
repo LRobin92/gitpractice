@@ -1,4 +1,4 @@
 void count(){
-print(1009);
-print(223509);
+print(10);
+print(22);
 }
