@@ -1,3 +1,3 @@
 void greet (){
-print ("hello Balazs");
+print ("hello Pityu");
 }
