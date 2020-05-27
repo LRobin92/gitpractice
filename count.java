@@ -1,4 +1,4 @@
 void count(){
-print(Robin);
-print(Balazs);
+print(Robin424214);
+print(Balazs4214214);
 }
